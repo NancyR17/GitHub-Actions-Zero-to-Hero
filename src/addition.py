@@ -1,5 +1,5 @@
 # app.py
-# This is a test commit for GitHUb Actions
+# This is a test commit for GitHUb Action
 def add(a, b):
     return a + b
 
